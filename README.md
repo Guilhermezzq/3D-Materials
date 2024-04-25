@@ -17,7 +17,7 @@ O projeto prático desenvolvido neste repositório serviu como uma forma de fixa
 
 ## Setup
 Download [Three.js](https://threejs.org/).
-Download [Three.js](https://webpack.js.org/guides/installation/).
+Download [Webpack.js](https://webpack.js.org/guides/installation/).
 Run this followed commands:
 
 ``` powershell/terminal
