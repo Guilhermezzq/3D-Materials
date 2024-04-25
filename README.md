@@ -1,6 +1,6 @@
 
 # Aprendendo sobre Materiais com Three.js
-Bem-vindo ao repositório "Aprendendo sobre Materiais com Three.js"! Este projeto é resultado do curso onde explorei os fundamentos dos materiais 3D e malhas (mesh) utilizando a biblioteca Three.js.
+Bem-vindo ao repositório "Aprendendo sobre  Materiais com Three.js"! Este projeto é resultado do curso onde explorei os fundamentos dos materiais 3D e malhas (mesh) utilizando a biblioteca Three.js.
 
 # Sobre o Projeto
 Durante o curso, mergulhei nos conceitos essenciais dos materiais 3D, compreendendo suas propriedades e explorando as diferentes malhas (mesh) disponíveis em Three.js. Aprendi como aplicar texturas utilizando o TextureLoader e pratiquei intensivamente esses conceitos em um projeto prático.
